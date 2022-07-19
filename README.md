@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jhaunn
 - 👀 Weight Training, Video Games, Weeb
-- 🌱 STEM / Computer Science Student
-- 💞️ Single, contact anytime
+- 🌱 Computer Science Student
+- 💞️ Game / Web Development, Competitive Programming
 - 📫 simonsumngat21@gmail.com
 
 <!---
