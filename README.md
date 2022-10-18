@@ -1,18 +1,20 @@
-### Hi there 👋<h2> I'm Shivam</h2>
+### Hi there 👋<h2> I'm Simon</h2>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/udK21RQeWtaGQ/giphy.gif" width="230">
 
 <h3> 👨🏻•💻 About Me </h3>
 
 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and developing projects.
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
+- 🎓 &nbsp; Studying Computer Science at University of Santo Tomas.
 
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+- 🌱 &nbsp; Learning about Game Development, Web Development, and Competetive Programming.
 
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+- ✍️ &nbsp; Watching Anime, Reading Manga, and playing games as hobbies.
+
+- 🍡 &nbsp; Interested in Japanese Culture and Food
 
 
 
@@ -20,21 +22,21 @@
 
 
 
-- 💻 &nbsp; Python | Java | C++ | C | MySQL
+- 💻 &nbsp; Visual Studio | Unity | Java | C#
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
-
-<!--
-- 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
--->
+- 🌐 &nbsp; HTML | CSS | SCSS | JavaScript
 
 
 
-<h3>🛠 To Learn</h3>
+<h3>🛠 To Learn / Do</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
+
+
+- 🔧 &nbsp; CTF | Hackathon
+
+- 💼 &nbsp; Looking for a part-time job / side hustle
+
+
 
 <hr>
 
