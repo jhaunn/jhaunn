@@ -1,6 +1,6 @@
 ### Hi there 👋<h2> I'm Simon</h2>
 
-<img align='right' src="https://media.giphy.com/media/udK21RQeWtaGQ/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/udK21RQeWtaGQ/giphy.gif" height="250">
 
 <h3> 👨🏻•💻 About Me </h3>
 
@@ -10,7 +10,7 @@
 
 - 🎓 &nbsp; Studying Computer Science at University of Santo Tomas.
 
-- 🌱 &nbsp; Learning about Game Development, Web Development, and Competetive Programming.
+- 🌱 &nbsp; Learning about Game Development and Web Development.
 
 - ✍️ &nbsp; Watching Anime, Reading Manga, and playing games as hobbies.
 
@@ -32,7 +32,7 @@
 
 
 
-- 🔧 &nbsp; CTF | Hackathon
+- 🔧 &nbsp; CTF | Hackathon | Competitive Programming
 
 - 💼 &nbsp; Looking for a part-time job / side hustle
 
