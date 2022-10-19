@@ -24,7 +24,7 @@
 
 - 💻 &nbsp; Visual Studio | Unity | Java | C#
 
-- 🌐 &nbsp; HTML | CSS | SCSS | JavaScript
+- 🌐 &nbsp; HTML | CSS | JavaScript
 
 
 
