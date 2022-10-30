@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/udK21RQeWtaGQ/giphy.gif" height="250">
 
-<h3> 👨🏻•💻 About Me </h3>
+<h3> 👨🏻 About Me </h3>
 
 
 
@@ -22,9 +22,9 @@
 
 
 
-- 💻 &nbsp; Visual Studio | Unity | Java | C#
+- 💻 &nbsp; Visual Studio/Code | Unity | Java | C#
 
-- 🌐 &nbsp; HTML | CSS | JavaScript
+- 🌐 &nbsp; HTML | CSS | SCSS | JavaScript
 
 
 
