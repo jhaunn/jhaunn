@@ -12,10 +12,6 @@
 
 - 🌱 &nbsp; Learning about Game Development and Web Development.
 
-- ✍️ &nbsp; Watching Anime, Reading Manga, and playing games as hobbies.
-
-- 🍡 &nbsp; Interested in Japanese Culture and Food
-
 
 
 <h3>🛠 Tech Stack</h3>
