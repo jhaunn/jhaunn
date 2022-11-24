@@ -20,7 +20,7 @@
 
 - 💻 &nbsp; Visual Studio/Code | Unity | Java | C#
 
-- 🌐 &nbsp; HTML | CSS | SCSS | JavaScript
+- 🌐 &nbsp; HTML | CSS | JavaScript
 
 
 
