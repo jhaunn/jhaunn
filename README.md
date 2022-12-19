@@ -10,7 +10,7 @@
 
 - 🎓 &nbsp; Studying Computer Science at University of Santo Tomas.
 
-- 🌱 &nbsp; Learning about Game Development and Web Development.
+- 🌱 &nbsp; Working on Game Development and Web Development.
 
 
 
@@ -30,7 +30,7 @@
 
 - 🔧 &nbsp; CTF | Hackathon | Competitive Programming
 
-- 💼 &nbsp; Looking for a part-time job / side hustle
+- 💼 &nbsp; Currently looking for a part-time job
 
 
 
