@@ -2,6 +2,8 @@
 
 <img align='right' src="https://media.giphy.com/media/udK21RQeWtaGQ/giphy.gif" height="250">
 
+
+
 <h3>👨‍🦱 About Me </h3>
 
 
@@ -17,20 +19,11 @@
 <h3>🛠 Tech Stack</h3>
 
 
+- 🎮 &nbsp; Visual Studio/Code | Unity | C#
 
-- 💻 &nbsp; Visual Studio/Code | Unity | Java | C#
+- 💻 &nbsp; Visual Studio/Code | Java 
 
 - 🌐 &nbsp; HTML | CSS | JavaScript
-
-
-
-<h3>📃 To Learn / Do</h3>
-
-
-
-- 🔧 &nbsp; CTF | Hackathon | Competitive Programming
-
-- 💼 &nbsp; Currently looking for a part-time job
 
 
 
