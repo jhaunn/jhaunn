@@ -19,11 +19,11 @@
 <h3>🛠 Tech Stack</h3>
 
 
-- 🎮 (Game Dev) &nbsp; Visual Studio/Code | Unity | C#
+- 🎮 &nbsp; Visual Studio/Code | Unity | C#
 
-- 💻 (Computer Science) &nbsp; Visual Studio/Code | Java 
+- 💻 &nbsp; Java | NetBeans
 
-- 🌐 (Web Dev) &nbsp; HTML | CSS | JavaScript
+- 🌐 &nbsp; HTML | CSS | JavaScript
 
 
 
