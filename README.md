@@ -1,4 +1,4 @@
-### Hi there 👋<h2> I'm Simon</h2>
+<h2>👋 Hi there, I'm Simon</h2>
 
 <img align='right' src="https://media.giphy.com/media/udK21RQeWtaGQ/giphy.gif" height="250">
 
