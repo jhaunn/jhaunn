@@ -19,7 +19,7 @@
 <h3>🛠 Tech Stack</h3>
 
 
-- 🎮 &nbsp; Visual Studio/Code | Unity | C#
+- 🎮 &nbsp; Visual Studio / Code | Unity | C#
 
 - 💻 &nbsp; Java | NetBeans
 
