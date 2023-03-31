@@ -21,8 +21,6 @@
 
 - 🎮 &nbsp; Visual Studio / Code | Unity | C#
 
-- 💻 &nbsp; Java | NetBeans
-
 - 🌐 &nbsp; HTML | CSS | JavaScript
 
 
