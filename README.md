@@ -8,7 +8,7 @@
 
 
 
-- ⌚ &nbsp; Exploring new technologies and developing projects.
+- 🤔 &nbsp; Exploring new technologies and developing projects.
 
 - 🎓 &nbsp; Studying Computer Science at University of Santo Tomas.
 
