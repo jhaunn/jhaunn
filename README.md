@@ -2,11 +2,12 @@
 
 **`Code Artisan (Developer)`**
 
-I'm a Computer Science student and indie developer, creating my own digital world, one step at a time. Every project is meticulously planned and designed, tackling real-world challenges with the power of code.
+I'm a Computer Science student specializing in Core Computer Science, with a strong foundation in building projects in an end-to-end experience from planning, building, testing, and deployment using a variety of technical tools. Committed problem solver with a strong learning agility, dedicated to constant learning. Comfortable in collaborative environments and works cohesively with a team. Currently exploring various opportunities in the field of Computer Science.
 
 ---
 
-### 🧰 Languages and Tools
+## 🧰 Languages and Tools
+
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -21,9 +22,3 @@ I'm a Computer Science student and indie developer, creating my own digital worl
 <br>
 
 #
-
-### 📊 Stats
-
-![Jhaunn's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhaunn&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
